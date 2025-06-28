@@ -29,7 +29,7 @@ module.exports = {
   ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE) || true,
   WARN_COUNT: process.env.WARN_COUNT  || '3',
   AUTO_STATUS_VIEW: toBool(process.env.AUTO_STATUS_VIEW) || false,
-  SESSION_ID: process.env.SESSION_ID || "izumi~zazomeduso",
+  SESSION_ID: process.env.SESSION_ID || "izumi~mogipoyuwi",
   MENU_URL: process.env.MENU_URL || "https://cdn.eypz.ct.ws/url/15-05-25_06-18_w9fi.png",
   MENU_TYPE: process.env.MENU_TYPE || "normal",
   CAPTION: process.env.CAPTION || "Made with 🤍",
